@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-xhdpi-v4\\scriba_logo.png",
+        "source": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\AppScribaNotes\\applib\\unspecified\\res\\drawable-land-xhdpi-v4\\scriba_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-xhdpi-v4\\splash_icon_land.png",
+        "source": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\AppScribaNotes\\applib\\unspecified\\res\\drawable-land-xhdpi-v4\\splash_icon_land.png"
+    },
+    {
+        "merged": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-xhdpi-v4\\scriba_notes_splash_land.png",
+        "source": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\AppScribaNotes\\applib\\unspecified\\res\\drawable-land-xhdpi-v4\\scriba_notes_splash_land.png"
+    },
+    {
+        "merged": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-xhdpi-v4\\scriba_notes_generic_landscape.png",
+        "source": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\AppScribaNotes\\applib\\unspecified\\res\\drawable-land-xhdpi-v4\\scriba_notes_generic_landscape.png"
+    },
+    {
+        "merged": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-xhdpi-v4\\nordic_logo.png",
+        "source": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\AppScribaNotes\\applib\\unspecified\\res\\drawable-land-xhdpi-v4\\nordic_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-xhdpi-v4\\scriba_notes_nexus5x_landscape.png",
+        "source": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\AppScribaNotes\\applib\\unspecified\\res\\drawable-land-xhdpi-v4\\scriba_notes_nexus5x_landscape.png"
+    },
+    {
+        "merged": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-xhdpi-v4\\background_image.jpg",
+        "source": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\AppScribaNotes\\applib\\unspecified\\res\\drawable-land-xhdpi-v4\\background_image.jpg"
+    }
+]

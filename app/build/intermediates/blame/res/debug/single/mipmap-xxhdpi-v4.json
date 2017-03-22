@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\AppScribaNotes\\applib\\unspecified\\res\\mipmap-xxhdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\scriba_launcher.png",
+        "source": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\AppScribaNotes\\applib\\unspecified\\res\\mipmap-xxhdpi-v4\\scriba_launcher.png"
+    }
+]

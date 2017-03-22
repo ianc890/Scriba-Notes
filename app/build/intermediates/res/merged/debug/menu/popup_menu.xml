@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+            <item
+                android:id="@+id/red"
+                android:showAsAction="never|withText"
+                android:title="Red"
+                android:icon="@drawable/circle_red"
+                android:visible="true"/>
+
+            <item
+                android:id="@+id/lightRed"
+                android:icon="@drawable/circle_light_red"
+                android:showAsAction="never|withText"
+                android:title="Light Red"
+                android:visible="true" />
+
+            <item
+                android:id="@+id/blue"
+                android:showAsAction="never|withText"
+                android:title="Blue"
+                android:icon="@drawable/circle_blue"
+                android:visible="true"/>
+
+            <item
+                android:id="@+id/lightBlue"
+                android:icon="@drawable/circle_light_blue"
+                android:showAsAction="never|withText"
+                android:title="Light Blue"
+                android:visible="true" />
+
+            <item
+                android:id="@+id/green"
+                android:showAsAction="never|withText"
+                android:title="Green"
+                android:icon="@drawable/circle_green"
+                android:visible="true"/>
+
+            <item
+                android:id="@+id/lightGreen"
+                android:showAsAction="never|withText"
+                android:title="Light Green"
+                android:icon="@drawable/circle_light_green"
+                android:visible="true"/>
+
+            <item
+                android:id="@+id/orange"
+                android:showAsAction="never|withText"
+                android:title="Orange"
+                android:icon="@drawable/circle_orange"
+                android:visible="true" />
+
+            <item
+                android:id="@+id/yellow"
+                android:showAsAction="never|withText"
+                android:title="Yellow"
+                android:icon="@drawable/circle_yellow"
+                android:visible="true" />
+
+            <item
+                android:id="@+id/pink"
+                android:showAsAction="never|withText"
+                android:title="Pink"
+                android:icon="@drawable/circle_pink"
+                android:visible="true" />
+
+            <item
+                android:id="@+id/purple"
+                android:showAsAction="never|withText"
+                android:title="Purple"
+                android:icon="@drawable/circle_purple"
+                android:visible="true" />
+
+            <item
+                android:id="@+id/black"
+                android:showAsAction="never|withText"
+                android:title="Black"
+                android:icon="@drawable/circle_black"
+                android:visible="true" />
+
+            <item
+                android:id="@+id/white"
+                android:showAsAction="never|withText"
+                android:title="White"
+                android:icon="@drawable/circle_white"
+                android:visible="true" />
+        </menu>

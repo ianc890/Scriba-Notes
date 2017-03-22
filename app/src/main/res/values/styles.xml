@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Theme.NotepadApp" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">#55AAE2</item>
+        <!--<item name="colorPrimary">#999999</item>-->
+        <item name="colorPrimaryDark">#404040</item>
+        <item name="colorAccent">#0073BA</item>
+        <!--<item name="colorAccent">#00cc66</item>-->
+        <item name="actionModeBackground">@color/cabBackground2</item>
+        <!--<item name="actionModeBackground">@color/cabBackground</item>-->
+        <item name="floatingActionButtonStyle">@style/NotepadApp.Fab</item>
+        <item name="android:textSelectHandle">@drawable/handle</item>
+        <!--<item name="android:textSelectHandleLeft">@drawable/handle</item>
+        <item name="android:textSelectHandleRight">@drawable/handle</item>-->
+    </style>
+
+    <style name="NotepadApp.Fab" parent="FloatingActionButton">
+        <item name="floatingActionButtonColor">#0073BA</item>
+    </style>
+
+    <style name="Theme.NotepadApp2" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">#08617c</item>
+        <item name="colorPrimaryDark">#053e50</item>
+        <item name="colorAccent">#a9deff</item>
+        <!--<item name="actionModeBackground">@drawable/cab_background_top</item>-->
+        <item name="floatingActionButtonStyle">@style/NotepadApp.Fab</item>
+
+        <!--how to hide action mode-->
+        <item name="android:windowActionModeOverlay">true</item>
+        <item name="android:actionModeStyle" tools:targetApi="ice_cream_sandwich">@style/ActionModeStyleBlank</item>
+        <item name="android:actionModeBackground">@android:color/transparent</item>
+        <item name="android:actionModeCopyDrawable">@drawable/blank</item>
+        <item name="android:actionModeCloseDrawable">@drawable/blank</item>
+        <item name="android:actionModeCutDrawable">@drawable/blank</item>
+        <item name="android:actionModePasteDrawable">@drawable/blank</item>
+        <item name="android:actionModeSelectAllDrawable" tools:targetApi="ice_cream_sandwich">@drawable/blank</item>
+        <item name="android:actionModeSplitBackground" tools:targetApi="ice_cream_sandwich">@android:color/transparent</item>
+    </style>
+
+
+    <!--size should be 1px otherwise full size action bar is shown -->
+    <style name="ActionModeStyleBlank">
+        <item name="android:actionBarSize">1px</item>
+        <item name="android:height">1px</item>
+    </style>
+
+    <style name="NotepadApp.Fullscreen" parent="@android:style/Theme.Holo.NoActionBar">
+    </style>
+
+</resources>

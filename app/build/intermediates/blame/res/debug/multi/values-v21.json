@@ -1,0 +1,2066 @@
+[
+    {
+        "outputFile": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\res\\merged\\debug\\values-v21\\values-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 68,
+                    "endOffset": 119
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 223,
+                        "endColumn": 68,
+                        "endOffset": 287
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 124,
+                    "endColumn": 65,
+                    "endOffset": 185
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\com.shamanland\\fab\\0.0.8\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 180,
+                        "endColumn": 65,
+                        "endOffset": 241
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 190,
+                    "endColumn": 72,
+                    "endOffset": 258
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\com.shamanland\\fab\\0.0.8\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 246,
+                        "endColumn": 72,
+                        "endOffset": 314
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 263,
+                    "endColumn": 67,
+                    "endOffset": 326
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\com.shamanland\\fab\\0.0.8\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 319,
+                        "endColumn": 67,
+                        "endOffset": 382
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 331,
+                    "endColumn": 74,
+                    "endOffset": 401
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\com.shamanland\\fab\\0.0.8\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 387,
+                        "endColumn": 74,
+                        "endOffset": 457
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 406,
+                    "endColumn": 49,
+                    "endOffset": 451
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\AppScribaNotes\\applib\\unspecified\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 49,
+                        "endOffset": 100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 456,
+                    "endColumn": 52,
+                    "endOffset": 504
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\AppScribaNotes\\applib\\unspecified\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endColumn": 52,
+                        "endOffset": 153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 509,
+                    "endLine": 12,
+                    "endColumn": 12,
+                    "endOffset": 661
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\AppScribaNotes\\applib\\unspecified\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 158,
+                        "endLine": 7,
+                        "endColumn": 12,
+                        "endOffset": 310
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 666,
+                    "endLine": 16,
+                    "endColumn": 12,
+                    "endOffset": 874
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\AppScribaNotes\\applib\\unspecified\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 315,
+                        "endLine": 11,
+                        "endColumn": 12,
+                        "endOffset": 523
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 879,
+                    "endColumn": 90,
+                    "endOffset": 965
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 239,
+                        "endColumn": 90,
+                        "endOffset": 325
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 970,
+                    "endColumn": 102,
+                    "endOffset": 1068
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 330,
+                        "endColumn": 102,
+                        "endOffset": 428
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1073,
+                    "endColumn": 102,
+                    "endOffset": 1171
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 433,
+                        "endColumn": 102,
+                        "endOffset": 531
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1176,
+                    "endColumn": 104,
+                    "endOffset": 1276
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 536,
+                        "endColumn": 104,
+                        "endOffset": 636
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1281,
+                    "endColumn": 106,
+                    "endOffset": 1383
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 641,
+                        "endColumn": 106,
+                        "endOffset": 743
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1388,
+                    "endColumn": 108,
+                    "endOffset": 1492
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 748,
+                        "endColumn": 108,
+                        "endOffset": 852
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1497,
+                    "endColumn": 108,
+                    "endOffset": 1601
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 857,
+                        "endColumn": 108,
+                        "endOffset": 961
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1606,
+                    "endColumn": 108,
+                    "endOffset": 1710
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 966,
+                        "endColumn": 108,
+                        "endOffset": 1070
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1715,
+                    "endColumn": 108,
+                    "endOffset": 1819
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1075,
+                        "endColumn": 108,
+                        "endOffset": 1179
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1824,
+                    "endColumn": 108,
+                    "endOffset": 1928
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1184,
+                        "endColumn": 108,
+                        "endOffset": 1288
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1933,
+                    "endColumn": 106,
+                    "endOffset": 2035
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1293,
+                        "endColumn": 106,
+                        "endOffset": 1395
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2040,
+                    "endColumn": 102,
+                    "endOffset": 2138
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1400,
+                        "endColumn": 102,
+                        "endOffset": 1498
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2143,
+                    "endColumn": 118,
+                    "endOffset": 2257
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1503,
+                        "endColumn": 118,
+                        "endOffset": 1617
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2262,
+                    "endLine": 31,
+                    "endColumn": 12,
+                    "endOffset": 2412
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1801,
+                        "endLine": 20,
+                        "endColumn": 12,
+                        "endOffset": 1951
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 2417,
+                    "endLine": 33,
+                    "endColumn": 12,
+                    "endOffset": 2567
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1956,
+                        "endLine": 22,
+                        "endColumn": 12,
+                        "endOffset": 2106
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 2572,
+                    "endColumn": 104,
+                    "endOffset": 2672
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 2295,
+                        "endColumn": 104,
+                        "endOffset": 2395
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 2677,
+                    "endColumn": 120,
+                    "endOffset": 2793
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 2400,
+                        "endColumn": 120,
+                        "endOffset": 2516
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 2798,
+                    "endColumn": 100,
+                    "endOffset": 2894
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 2521,
+                        "endColumn": 100,
+                        "endOffset": 2617
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 2899,
+                    "endLine": 38,
+                    "endColumn": 12,
+                    "endOffset": 3041
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 2801,
+                        "endLine": 31,
+                        "endColumn": 12,
+                        "endOffset": 2943
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 3046,
+                    "endLine": 40,
+                    "endColumn": 12,
+                    "endOffset": 3182
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 2948,
+                        "endLine": 33,
+                        "endColumn": 12,
+                        "endOffset": 3084
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 3187,
+                    "endColumn": 102,
+                    "endOffset": 3285
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 3273,
+                        "endColumn": 102,
+                        "endOffset": 3371
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 3290,
+                    "endColumn": 118,
+                    "endOffset": 3404
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 3376,
+                        "endColumn": 118,
+                        "endOffset": 3490
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 3409,
+                    "endColumn": 106,
+                    "endOffset": 3511
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 3495,
+                        "endColumn": 106,
+                        "endOffset": 3597
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 3516,
+                    "endColumn": 102,
+                    "endOffset": 3614
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 3602,
+                        "endColumn": 102,
+                        "endOffset": 3700
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 3619,
+                    "endLine": 46,
+                    "endColumn": 12,
+                    "endOffset": 3761
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 3884,
+                        "endLine": 43,
+                        "endColumn": 12,
+                        "endOffset": 4026
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 3766,
+                    "endLine": 48,
+                    "endColumn": 12,
+                    "endOffset": 3916
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 4031,
+                        "endLine": 45,
+                        "endColumn": 12,
+                        "endOffset": 4181
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 3921,
+                    "endLine": 50,
+                    "endColumn": 12,
+                    "endOffset": 4087
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 4186,
+                        "endLine": 47,
+                        "endColumn": 12,
+                        "endOffset": 4352
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 4092,
+                    "endLine": 52,
+                    "endColumn": 12,
+                    "endOffset": 4236
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 4357,
+                        "endLine": 49,
+                        "endColumn": 12,
+                        "endOffset": 4501
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 4241,
+                    "endLine": 54,
+                    "endColumn": 12,
+                    "endOffset": 4401
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 4506,
+                        "endLine": 51,
+                        "endColumn": 12,
+                        "endOffset": 4666
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 4406,
+                    "endLine": 56,
+                    "endColumn": 12,
+                    "endOffset": 4558
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 4671,
+                        "endLine": 53,
+                        "endColumn": 12,
+                        "endOffset": 4823
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 4563,
+                    "endLine": 58,
+                    "endColumn": 12,
+                    "endOffset": 4709
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 4828,
+                        "endLine": 55,
+                        "endColumn": 12,
+                        "endOffset": 4974
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 4714,
+                    "endColumn": 118,
+                    "endOffset": 4828
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 5163,
+                        "endColumn": 118,
+                        "endOffset": 5277
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 4833,
+                    "endLine": 61,
+                    "endColumn": 12,
+                    "endOffset": 4977
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 5461,
+                        "endLine": 62,
+                        "endColumn": 12,
+                        "endOffset": 5605
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 4982,
+                    "endLine": 63,
+                    "endColumn": 12,
+                    "endOffset": 5126
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 5610,
+                        "endLine": 64,
+                        "endColumn": 12,
+                        "endOffset": 5754
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 5131,
+                    "endColumn": 111,
+                    "endOffset": 5238
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 4,
+                        "startOffset": 5943,
+                        "endColumn": 111,
+                        "endOffset": 6050
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 5243,
+                    "endColumn": 146,
+                    "endOffset": 5385
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 4,
+                        "startOffset": 6234,
+                        "endColumn": 146,
+                        "endOffset": 6376
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 5390,
+                    "endLine": 67,
+                    "endColumn": 12,
+                    "endOffset": 5538
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 4,
+                        "startOffset": 6381,
+                        "endLine": 72,
+                        "endColumn": 12,
+                        "endOffset": 6529
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 5543,
+                    "endLine": 69,
+                    "endColumn": 12,
+                    "endOffset": 5685
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 73,
+                        "startColumn": 4,
+                        "startOffset": 6534,
+                        "endLine": 74,
+                        "endColumn": 12,
+                        "endOffset": 6676
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 5690,
+                    "endColumn": 74,
+                    "endOffset": 5760
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 77,
+                        "startColumn": 4,
+                        "startOffset": 6860,
+                        "endColumn": 74,
+                        "endOffset": 6930
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 5765,
+                    "endColumn": 88,
+                    "endOffset": 5849
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 78,
+                        "startColumn": 4,
+                        "startOffset": 6935,
+                        "endColumn": 88,
+                        "endOffset": 7019
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 5854,
+                    "endColumn": 86,
+                    "endOffset": 5936
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 79,
+                        "startColumn": 4,
+                        "startOffset": 7024,
+                        "endColumn": 86,
+                        "endOffset": 7106
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 5941,
+                    "endColumn": 100,
+                    "endOffset": 6037
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 4,
+                        "startOffset": 7111,
+                        "endColumn": 100,
+                        "endOffset": 7207
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 6042,
+                    "endLine": 117,
+                    "endColumn": 12,
+                    "endOffset": 9105
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 81,
+                        "startColumn": 4,
+                        "startOffset": 7212,
+                        "endLine": 124,
+                        "endColumn": 12,
+                        "endOffset": 10275
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 118,
+                    "startColumn": 4,
+                    "startOffset": 9110,
+                    "endLine": 120,
+                    "endColumn": 12,
+                    "endOffset": 9291
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 125,
+                        "startColumn": 4,
+                        "startOffset": 10280,
+                        "endLine": 127,
+                        "endColumn": 12,
+                        "endOffset": 10461
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 121,
+                    "startColumn": 4,
+                    "startOffset": 9296,
+                    "endLine": 164,
+                    "endColumn": 12,
+                    "endOffset": 12371
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 128,
+                        "startColumn": 4,
+                        "startOffset": 10466,
+                        "endLine": 171,
+                        "endColumn": 12,
+                        "endOffset": 13541
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 165,
+                    "startColumn": 4,
+                    "startOffset": 12376,
+                    "endLine": 167,
+                    "endColumn": 12,
+                    "endOffset": 12569
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 172,
+                        "startColumn": 4,
+                        "startOffset": 13546,
+                        "endLine": 174,
+                        "endColumn": 12,
+                        "endOffset": 13739
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 168,
+                    "startColumn": 4,
+                    "startOffset": 12574,
+                    "endLine": 169,
+                    "endColumn": 12,
+                    "endOffset": 12692
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 177,
+                        "startColumn": 4,
+                        "startOffset": 13923,
+                        "endLine": 178,
+                        "endColumn": 12,
+                        "endOffset": 14041
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 170,
+                    "startColumn": 4,
+                    "startOffset": 12697,
+                    "endLine": 171,
+                    "endColumn": 12,
+                    "endOffset": 12815
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 179,
+                        "startColumn": 4,
+                        "startOffset": 14046,
+                        "endLine": 180,
+                        "endColumn": 12,
+                        "endOffset": 14164
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 172,
+                    "startColumn": 4,
+                    "startOffset": 12820,
+                    "endLine": 173,
+                    "endColumn": 12,
+                    "endOffset": 12928
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 181,
+                        "startColumn": 4,
+                        "startOffset": 14169,
+                        "endLine": 182,
+                        "endColumn": 12,
+                        "endOffset": 14277
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 174,
+                    "startColumn": 4,
+                    "startOffset": 12933,
+                    "endLine": 176,
+                    "endColumn": 12,
+                    "endOffset": 13111
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 183,
+                        "startColumn": 4,
+                        "startOffset": 14282,
+                        "endLine": 185,
+                        "endColumn": 12,
+                        "endOffset": 14460
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 177,
+                    "startColumn": 4,
+                    "startOffset": 13116,
+                    "endLine": 178,
+                    "endColumn": 12,
+                    "endOffset": 13242
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 186,
+                        "startColumn": 4,
+                        "startOffset": 14465,
+                        "endLine": 187,
+                        "endColumn": 12,
+                        "endOffset": 14591
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 179,
+                    "startColumn": 4,
+                    "startOffset": 13247,
+                    "endLine": 181,
+                    "endColumn": 12,
+                    "endOffset": 13443
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 188,
+                        "startColumn": 4,
+                        "startOffset": 14596,
+                        "endLine": 190,
+                        "endColumn": 12,
+                        "endOffset": 14792
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 182,
+                    "startColumn": 4,
+                    "startOffset": 13448,
+                    "endColumn": 88,
+                    "endOffset": 13532
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 191,
+                        "startColumn": 4,
+                        "startOffset": 14797,
+                        "endColumn": 88,
+                        "endOffset": 14881
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 183,
+                    "startColumn": 4,
+                    "startOffset": 13537,
+                    "endColumn": 110,
+                    "endOffset": 13643
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 192,
+                        "startColumn": 4,
+                        "startOffset": 14886,
+                        "endColumn": 110,
+                        "endOffset": 14992
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 184,
+                    "startColumn": 4,
+                    "startOffset": 13648,
+                    "endColumn": 126,
+                    "endOffset": 13770
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 193,
+                        "startColumn": 4,
+                        "startOffset": 14997,
+                        "endColumn": 126,
+                        "endOffset": 15119
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 185,
+                    "startColumn": 4,
+                    "startOffset": 13775,
+                    "endColumn": 100,
+                    "endOffset": 13871
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 194,
+                        "startColumn": 4,
+                        "startOffset": 15124,
+                        "endColumn": 100,
+                        "endOffset": 15220
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 186,
+                    "startColumn": 4,
+                    "startOffset": 13876,
+                    "endColumn": 94,
+                    "endOffset": 13966
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 195,
+                        "startColumn": 4,
+                        "startOffset": 15225,
+                        "endColumn": 94,
+                        "endOffset": 15315
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 187,
+                    "startColumn": 4,
+                    "startOffset": 13971,
+                    "endColumn": 122,
+                    "endOffset": 14089
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 196,
+                        "startColumn": 4,
+                        "startOffset": 15320,
+                        "endColumn": 122,
+                        "endOffset": 15438
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 188,
+                    "startColumn": 4,
+                    "startOffset": 14094,
+                    "endColumn": 128,
+                    "endOffset": 14218
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 197,
+                        "startColumn": 4,
+                        "startOffset": 15443,
+                        "endColumn": 128,
+                        "endOffset": 15567
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 189,
+                    "startColumn": 4,
+                    "startOffset": 14223,
+                    "endColumn": 116,
+                    "endOffset": 14335
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 198,
+                        "startColumn": 4,
+                        "startOffset": 15572,
+                        "endColumn": 116,
+                        "endOffset": 15684
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 190,
+                    "startColumn": 4,
+                    "startOffset": 14340,
+                    "endLine": 192,
+                    "endColumn": 12,
+                    "endOffset": 14512
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 199,
+                        "startColumn": 4,
+                        "startOffset": 15689,
+                        "endLine": 201,
+                        "endColumn": 12,
+                        "endOffset": 15861
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 193,
+                    "startColumn": 4,
+                    "startOffset": 14517,
+                    "endColumn": 98,
+                    "endOffset": 14611
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 202,
+                        "startColumn": 4,
+                        "startOffset": 15866,
+                        "endColumn": 98,
+                        "endOffset": 15960
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 194,
+                    "startColumn": 4,
+                    "startOffset": 14616,
+                    "endLine": 195,
+                    "endColumn": 12,
+                    "endOffset": 14746
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 203,
+                        "startColumn": 4,
+                        "startOffset": 15965,
+                        "endLine": 204,
+                        "endColumn": 12,
+                        "endOffset": 16095
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 196,
+                    "startColumn": 4,
+                    "startOffset": 14751,
+                    "endLine": 197,
+                    "endColumn": 12,
+                    "endOffset": 14889
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 205,
+                        "startColumn": 4,
+                        "startOffset": 16100,
+                        "endLine": 206,
+                        "endColumn": 12,
+                        "endOffset": 16238
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 198,
+                    "startColumn": 4,
+                    "startOffset": 14894,
+                    "endLine": 199,
+                    "endColumn": 12,
+                    "endOffset": 15024
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 207,
+                        "startColumn": 4,
+                        "startOffset": 16243,
+                        "endLine": 208,
+                        "endColumn": 12,
+                        "endOffset": 16373
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 200,
+                    "startColumn": 4,
+                    "startOffset": 15029,
+                    "endLine": 201,
+                    "endColumn": 12,
+                    "endOffset": 15143
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 209,
+                        "startColumn": 4,
+                        "startOffset": 16378,
+                        "endLine": 210,
+                        "endColumn": 12,
+                        "endOffset": 16492
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 202,
+                    "startColumn": 4,
+                    "startOffset": 15148,
+                    "endLine": 205,
+                    "endColumn": 12,
+                    "endOffset": 15344
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 211,
+                        "startColumn": 4,
+                        "startOffset": 16497,
+                        "endLine": 214,
+                        "endColumn": 12,
+                        "endOffset": 16693
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 206,
+                    "startColumn": 4,
+                    "startOffset": 15349,
+                    "endLine": 207,
+                    "endColumn": 12,
+                    "endOffset": 15463
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 215,
+                        "startColumn": 4,
+                        "startOffset": 16698,
+                        "endLine": 216,
+                        "endColumn": 12,
+                        "endOffset": 16812
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 208,
+                    "startColumn": 4,
+                    "startOffset": 15468,
+                    "endColumn": 92,
+                    "endOffset": 15556
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 217,
+                        "startColumn": 4,
+                        "startOffset": 16817,
+                        "endColumn": 92,
+                        "endOffset": 16905
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 209,
+                    "startColumn": 4,
+                    "startOffset": 15561,
+                    "endColumn": 110,
+                    "endOffset": 15667
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 218,
+                        "startColumn": 4,
+                        "startOffset": 16910,
+                        "endColumn": 110,
+                        "endOffset": 17016
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 210,
+                    "startColumn": 4,
+                    "startOffset": 15672,
+                    "endColumn": 55,
+                    "endOffset": 15723
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 219,
+                        "startColumn": 4,
+                        "startOffset": 17021,
+                        "endColumn": 55,
+                        "endOffset": 17072
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 211,
+                    "startColumn": 4,
+                    "startOffset": 15728,
+                    "endLine": 212,
+                    "endColumn": 12,
+                    "endOffset": 15830
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 220,
+                        "startColumn": 4,
+                        "startOffset": 17077,
+                        "endLine": 221,
+                        "endColumn": 12,
+                        "endOffset": 17179
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 213,
+                    "startColumn": 4,
+                    "startOffset": 15835,
+                    "endLine": 216,
+                    "endColumn": 12,
+                    "endOffset": 16025
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 222,
+                        "startColumn": 4,
+                        "startOffset": 17184,
+                        "endLine": 225,
+                        "endColumn": 12,
+                        "endOffset": 17374
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 217,
+                    "startColumn": 4,
+                    "startOffset": 16030,
+                    "endLine": 218,
+                    "endColumn": 12,
+                    "endOffset": 16136
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 226,
+                        "startColumn": 4,
+                        "startOffset": 17379,
+                        "endLine": 227,
+                        "endColumn": 12,
+                        "endOffset": 17485
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 219,
+                    "startColumn": 4,
+                    "startOffset": 16141,
+                    "endLine": 220,
+                    "endColumn": 12,
+                    "endOffset": 16269
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 228,
+                        "startColumn": 4,
+                        "startOffset": 17490,
+                        "endLine": 229,
+                        "endColumn": 12,
+                        "endOffset": 17618
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 221,
+                    "startColumn": 4,
+                    "startOffset": 16274,
+                    "endColumn": 94,
+                    "endOffset": 16364
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 230,
+                        "startColumn": 4,
+                        "startOffset": 17623,
+                        "endColumn": 94,
+                        "endOffset": 17713
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 222,
+                    "startColumn": 4,
+                    "startOffset": 16369,
+                    "endColumn": 90,
+                    "endOffset": 16455
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 231,
+                        "startColumn": 4,
+                        "startOffset": 17718,
+                        "endColumn": 90,
+                        "endOffset": 17804
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 223,
+                    "startColumn": 4,
+                    "startOffset": 16460,
+                    "endColumn": 90,
+                    "endOffset": 16546
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 232,
+                        "startColumn": 4,
+                        "startOffset": 17809,
+                        "endColumn": 90,
+                        "endOffset": 17895
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 224,
+                    "startColumn": 4,
+                    "startOffset": 16551,
+                    "endColumn": 116,
+                    "endOffset": 16663
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 233,
+                        "startColumn": 4,
+                        "startOffset": 17900,
+                        "endColumn": 116,
+                        "endOffset": 18012
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 225,
+                    "startColumn": 4,
+                    "startOffset": 16668,
+                    "endLine": 226,
+                    "endColumn": 12,
+                    "endOffset": 16802
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 234,
+                        "startColumn": 4,
+                        "startOffset": 18017,
+                        "endLine": 235,
+                        "endColumn": 12,
+                        "endOffset": 18151
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 227,
+                    "startColumn": 4,
+                    "startOffset": 16807,
+                    "endLine": 230,
+                    "endColumn": 12,
+                    "endOffset": 16978
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\AppScribaNotes\\applib\\unspecified\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 528,
+                        "endLine": 15,
+                        "endColumn": 12,
+                        "endOffset": 699
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 231,
+                    "startColumn": 4,
+                    "startOffset": 16983,
+                    "endLine": 232,
+                    "endColumn": 12,
+                    "endOffset": 17023
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\AppScribaNotes\\applib\\unspecified\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 704,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 744
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 233,
+                    "startColumn": 4,
+                    "startOffset": 17028,
+                    "endLine": 239,
+                    "endColumn": 12,
+                    "endOffset": 17376
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 238,
+                        "startColumn": 4,
+                        "startOffset": 18335,
+                        "endLine": 244,
+                        "endColumn": 12,
+                        "endOffset": 18683
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 240,
+                    "startColumn": 4,
+                    "startOffset": 17381,
+                    "endLine": 246,
+                    "endColumn": 12,
+                    "endOffset": 17741
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 245,
+                        "startColumn": 4,
+                        "startOffset": 18688,
+                        "endLine": 251,
+                        "endColumn": 12,
+                        "endOffset": 19048
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 247,
+                    "startColumn": 4,
+                    "startOffset": 17746,
+                    "endLine": 256,
+                    "endColumn": 12,
+                    "endOffset": 18421
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 252,
+                        "startColumn": 4,
+                        "startOffset": 19053,
+                        "endLine": 261,
+                        "endColumn": 12,
+                        "endOffset": 19728
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 257,
+                    "startColumn": 4,
+                    "startOffset": 18426,
+                    "endColumn": 56,
+                    "endOffset": 18478
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 262,
+                        "startColumn": 4,
+                        "startOffset": 19733,
+                        "endColumn": 56,
+                        "endOffset": 19785
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 258,
+                    "startColumn": 4,
+                    "startOffset": 18483,
+                    "endColumn": 57,
+                    "endOffset": 18536
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 263,
+                        "startColumn": 4,
+                        "startOffset": 19790,
+                        "endColumn": 57,
+                        "endOffset": 19843
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 259,
+                    "startColumn": 4,
+                    "startOffset": 18541,
+                    "endLine": 266,
+                    "endColumn": 12,
+                    "endOffset": 18990
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\AppScribaNotes\\applib\\unspecified\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 749,
+                        "endLine": 25,
+                        "endColumn": 12,
+                        "endOffset": 1198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 267,
+                    "startColumn": 4,
+                    "startOffset": 18995,
+                    "endLine": 275,
+                    "endColumn": 9,
+                    "endOffset": 19436
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\AppScribaNotes\\applib\\unspecified\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1203,
+                        "endLine": 34,
+                        "endColumn": 9,
+                        "endOffset": 1644
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 276,
+                    "startColumn": 4,
+                    "startOffset": 19441,
+                    "endLine": 278,
+                    "endColumn": 9,
+                    "endOffset": 19552
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\AppScribaNotes\\applib\\unspecified\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1649,
+                        "endLine": 37,
+                        "endColumn": 9,
+                        "endOffset": 1760
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 279,
+                    "startColumn": 4,
+                    "startOffset": 19557,
+                    "endLine": 281,
+                    "endColumn": 9,
+                    "endOffset": 19672
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\AppScribaNotes\\applib\\unspecified\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 1765,
+                        "endLine": 40,
+                        "endColumn": 9,
+                        "endOffset": 1880
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 282,
+                    "startColumn": 4,
+                    "startOffset": 19677,
+                    "endLine": 284,
+                    "endColumn": 9,
+                    "endOffset": 19798
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\AppScribaNotes\\applib\\unspecified\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 1885,
+                        "endLine": 43,
+                        "endColumn": 9,
+                        "endOffset": 2006
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 285,
+                    "startColumn": 4,
+                    "startOffset": 19803,
+                    "endLine": 289,
+                    "endColumn": 12,
+                    "endOffset": 20024
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\AppScribaNotes\\applib\\unspecified\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 2011,
+                        "endLine": 48,
+                        "endColumn": 12,
+                        "endOffset": 2232
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 290,
+                    "startColumn": 4,
+                    "startOffset": 20029,
+                    "endLine": 295,
+                    "endColumn": 12,
+                    "endOffset": 20319
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\AppScribaNotes\\applib\\unspecified\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 2237,
+                        "endLine": 54,
+                        "endColumn": 12,
+                        "endOffset": 2527
+                    }
+                }
+            }
+        ]
+    }
+]

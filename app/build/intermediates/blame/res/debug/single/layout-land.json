@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\splash.xml",
+        "source": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\src\\main\\res\\layout-land\\splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_feature_hrs.xml",
+        "source": "C:\\Users\\Ian C\\Documents\\GitHub\\AppScribaNotes\\app\\build\\intermediates\\exploded-aar\\AppScribaNotes\\applib\\unspecified\\res\\layout-land\\activity_feature_hrs.xml"
+    }
+]

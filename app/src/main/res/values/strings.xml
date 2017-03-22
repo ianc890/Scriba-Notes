@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Scriba Notes</string>
+
+    <!-- MainActivity strings -->
+    <string name="title_activity_notes_list">Scriba Notes</string>
+    <string name="title_activity_settings_list">Customise Modes</string>
+    <string name="no_notes">No notes yet</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_about_notice">About</string>
+
+    <string name="delete_notes_alert">Delete %s note(s)?</string>
+    <string name="bluetooth">Connect Scriba</string>
+
+    <string name="dialog_title">Customise Zones</string>
+
+    <!-- Licenses dialog -->
+
+
+    <!-- About dialog -->
+    <string name="version_format">Version %s</string>
+    <string name="copyright_info">Scriba 2016</string>
+
+    <!-- EditNoteActivity strings -->
+    <string name="title_activity_edit_note">Edit note</string>
+    <string name="action_save">Save</string>
+    <string name="hint_note_title">Title</string>
+    <string name="hint_note_content">Content</string>
+    <string name="title_required">The note must have a title</string>
+    <string name="content_required">The note must have content</string>
+    <string name="blank_action"> </string>
+    <string name="content_test">ROBERT BRADY marked his senior international debut with a goal and assist in a 4-1 win for the Republic of Ireland over Oman on September 11, 2012.
+                                The talented winger had proven himself to be a real talent through the Irish underage international teams from under-15 right through to under-21 level.
+                                Brady was a major asset for Noel King\'s under-21 side in the UEFA Championships qualifying tournament and is now Ireland\'s top scorer at that level with seven goals.
+                                The young Dubliner made the breakthrough with St Kevin\'s Boys and was part of the FAI\'s Emerging Talent Programme before signing for Manchester United.
+                                Brady had a loan spell with Hull City in the 2011-12 season and was pushing for a first team breakthrough at Old Trafford in the summer of 2012. The Tigers opted to sign Brady on a permanent deal in 2013 and he started the Premier League season in impressive form.
+                                The winger\'s brother Gareth played for Dundalk, Shelboure and Drogheda United and was capped by Paul Doolin in an under-18 international earlier in 2012. Their younger brother Liam has also been in the Ireland underage set up at U18 level after signing for Stevenage FC.
+                                Robbie played at left back against the USA in November 2014 and scored two goals in a memorable 4-1 win for Ireland. He became a national hero with his winner against Italy at UEFA Euro 2016 in Lille and scored from the penalty spot against France in Lyon.</string>
+    <string name="title_test">Scriba Test</string>
+
+    <!-- ViewNoteActivity strings -->
+    <string name="title_activity_view_note">Note</string>
+    <string name="label_created_at">Created at:</string>
+    <string name="label_updated_at">Updated at:</string>
+
+    <!-- Settings Array -->
+    <string name="hYellow">Highlight Yellow</string>
+    <string name="hBlue">Highlight Blue</string>
+    <string name="hGreen">Highlight Green</string>
+    <string name="bold">Bold</string>
+    <string name="italic">Italic</string>
+    <string name="delete">Delete</string>
+    <string name="select">Selection</string>
+    <string name="underline">Underline</string>
+
+    <string-array name="settingsArray">
+        <item>@string/hYellow</item>
+        <item>@string/hBlue</item>
+        <item>@string/hGreen</item>
+        <item>@string/bold</item>
+        <item>@string/italic</item>
+        <item>@string/delete</item>
+        <item>@string/select</item>
+        <item>@string/underline</item>
+    </string-array>
+
+
+</resources>
